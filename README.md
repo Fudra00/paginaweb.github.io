@@ -1,2 +1,0 @@
-# paginaweb.github.io
-pagina
